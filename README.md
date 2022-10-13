@@ -1,7 +1,5 @@
 # Server
 
-`The `
-
 ## FAQ
 
 <details>
@@ -16,6 +14,7 @@
     - Panel (will use [API](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces))
         - Logs Show (with filters)
         - Logs Download
+        - Stub Build
         
     - [API](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces) requests
         - Auth
