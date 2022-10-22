@@ -23,3 +23,7 @@
         - Stub build
         - Rate Limit(from the API itself against the abuser)
 </details>
+
+## License
+
+OpenStealer is distributed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html), see [LICENSE](https://github.com/OpenStealer/Server/blob/main/LICENSE.md) and [NOTICE](https://github.com/OpenStealer/Server/blob/main/NOTICE.md) for more information.
